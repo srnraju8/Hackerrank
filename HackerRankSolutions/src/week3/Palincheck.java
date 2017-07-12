@@ -1,5 +1,9 @@
 package week3;
-
+/*
+*
+* https://www.hackerrank.com/challenges/game-of-thrones
+* this is java8 dependent
+*/
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Scanner;
