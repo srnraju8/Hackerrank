@@ -1,5 +1,9 @@
 package week3;
+/*
 
+https://www.hackerrank.com/challenges/kruskalmstrsub/problem
+
+*/
 import java.util.*;
 
 public class MST {
